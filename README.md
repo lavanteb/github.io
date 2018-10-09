@@ -14,7 +14,7 @@
 		</p>
 	</body>
 	<ul>
-		<li><a href="https://www.instagram.com/">link text</a>Instagram</li>
+		<li><a href="https://www.instagram.com/"></a>Instagram</li>
 		<Li>Facebook</Li>
 		<Li>Snapchat</Li>
 	</html>
